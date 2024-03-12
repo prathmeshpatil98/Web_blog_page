@@ -15,7 +15,8 @@ import os
 # import smtplib
 
 
-'''
+''' 
+c
 Make sure the required packages are installed: 
 Open the Terminal in PyCharm (bottom left). 
 
